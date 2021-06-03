@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Manner of the taking of Newarke upon Trent by the Parliaments-forces their chief commanders being [brace] the Lord VVilloughby, the Earl of Lincoln, Sir Anthony Erby : also an exact relation of the whole progresse or proceedings of Prince Rupert, Prince Mawrice, the Earl of Nopthampton [sic], the Lord Digby, the Lord Wentworth, and the Kings army, since their taking of Ciciter in the county of Gloucester ... : with a true relation of the cavaleers plundering in in Hampshire ...</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51803</idno><idno type="EEBO-CITATION">24049470</idno>
+  <idno type="VID">109634</idno>
+  <idno type="EEBO-PROQUEST">2240857711</idno>
+  
+            <idno type="STC">Wing M480</idno>
+            <idno type="STC">ESTC R42151</idno>
+            <idno type="OCLC">24049470</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1705:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Manner of the taking of Newarke upon Trent by the Parliaments-forces their chief commanders being [brace] the Lord VVilloughby, the Earl of Lincoln, Sir Anthony Erby : also an exact relation of the whole progresse or proceedings of Prince Rupert, Prince Mawrice, the Earl of Nopthampton [sic], the Lord Digby, the Lord Wentworth, and the Kings army, since their taking of Ciciter in the county of Gloucester ... : with a true relation of the cavaleers plundering in in Hampshire ...</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Walton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 7, 1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109634:1"/>
+            <pb facs="tcp:109634:1"/>
+            <p>The manner of the taking OF NEWARKE UPON TRENT By the PARLIAMENTS-Forces.</p>
+            <p>
+               <hi>Their chief Commanders being</hi>
+               <list>
+                  <item>The Lord <hi>VVilloughby,</hi>
+                  </item>
+                  <item>The Earl of <hi>Lincoln,</hi>
+                  </item>
+                  <item>Sir <hi>Anthony Erby.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Also, an exact Relation of the whole Progresse or Proceedings of Prince <hi>Rupert,</hi> Prince <hi>Mawrice,</hi> the Earl of <hi>Nopthampto<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the Lord <hi>Digby,</hi> the Lord <hi>Wentworth.</hi> and the Kings Army, since their taking of Cici<g ref="char:EOLhyphen"/>ter in the County of Gloucester: With the names of such Towns and pla<g ref="char:EOLhyphen"/>ces they have been at and where they now recide.</p>
+            <p>VVith a true Relation of the C<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>valeers plun<g ref="char:EOLhyphen"/>dering in <hi>Hampshire,</hi> and the Names of the Townes, and of many Gentlemen that were plundered there.</p>
+            <p>
+               <hi>March.</hi> 7. <hi>LONDON,</hi> Printed for <hi>I. Walton.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:109634:2"/>
+            <pb facs="tcp:109634:2"/>
+            <head>The manner of the taking of <hi>Newark upon Trent,</hi> by the Parliaments Forces.</head>
+            <p>IT is credibly informed, by one that was an eye-witnesse thereof the last Week, the Lord <hi>Willoughby of Parham,</hi> the Earl of <hi>Lincoln,</hi> and Sir <hi>Anthony Erby,</hi> with an army of about sixe thousand men, made an assault against <hi>Newark upon Trent,</hi> in the South side thereof, and forced the Enemy out of their Works, which after<g ref="char:EOLhyphen"/>wards got into a great Barn, and from thence they annoyed the Parliaments Forces for some time with their small-shot, untill the Barn was part of it with Canon-shot beat about their eares, and many of them killed with the fall thereof, and many of those which fled away were afterwards taken prisoners, and that the aforesaid Lord Willoughby, the Earl of Lin<g ref="char:EOLhyphen"/>coln, and their forces, did that night enter into the town, but about the Market-place the Ene<g ref="char:EOLhyphen"/>my
+<pb facs="tcp:109634:3"/>had made Breast-works, and Fortifications, and at the entering of the Town, the Relator hereof came from thence, so that what was fur<g ref="char:EOLhyphen"/>ther done, as yet is uncertain; Onely it is further said by the informer, that the Enemy cannot pos<g ref="char:EOLhyphen"/>sible eyther keep the Town, or flye from thence; because the Forces from Nottingham have beset all the Road<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and passages upon the North side of that Town: and if the Town be taken, there will be rich prize for our souldiers, for the dis<g ref="char:EOLhyphen"/>affected Gentlemen and Clergy in those parts have carried their treasure thither, which in probabili<g ref="char:EOLhyphen"/>tie will be a good encouragement to the Souldiers in hopes that they shall fare the better for some of it. Thus have you heard how gracious the Lord is towards us, giving us still the Victory over his and our enemies; I could have wished the informer had been able to have given a fuller relation of the particular number of those which were slain and taken prisoners. But let us thanke God for his mercifull goodnesse towards us, and wait with patience till we hear further.</p>
+            <p>
+               <hi>After the Town of Ciciter and a great part of the County of Gloucester, were plundered by the Cavaliers, and an Allarum given to Gloucester, but no attempt made against that Town, Prince</hi> Rupert <hi>with most
+<pb facs="tcp:109634:3"/>of his Forces returned back again to Oxford, together with Prince</hi> Mawrice, <hi>the Earl of Caernarvom, the Lord Digby, the Earl of Northampton, and others, which were chief Commanders, and the Lord</hi> Digby <hi>with his Regiment came to a Town called Wheatly</hi> 4. <hi>miles on this side Oxford, where he continued (keep<g ref="char:EOLhyphen"/>ing a Court of Guard there) for some few days, but on Monday was Seaven night, the said Lord</hi> Digby <hi>marched from Wheatly to Oxford, and the day follow<g ref="char:EOLhyphen"/>ing, Prince Rupert, Mawrice, and the Earl of North<g ref="char:EOLhyphen"/>hampton, the Lord Digby, the Lord Wentworth, and divers other Commanders, marched out of Oxford, with with all their Forces, consisting of about ten Regi<g ref="char:EOLhyphen"/>ments of Horse and Dragoons, and it was reported that their designe was against Gloucester, but leaving that Town, they marched towards Hampshire, and came to a Town called King scleer, where many Gentlemen of quality lived, which were well-affested eo the Par<g ref="char:EOLhyphen"/>liament, and the Souldiers fell to plundering and pil<g ref="char:EOLhyphen"/>laging, sparing no persons nor degrees, taking away all the Horses they could finde, and what money or other commodities which they met withall, and for such goods as they could not take away with them, they cut them to pieces, or caused the party to purchase them at a deere rate, as for instance; they came to a poore Farmers house, who held his land at a rack rent, and took all</hi>
+               <pb facs="tcp:109634:4"/>his horses from him, and not being contented therewith, they ate up all the provision either for horse and man, that he had, and having no<g ref="char:EOLhyphen"/>thing in his house worth carrying away, (his best houshold-stuffe consisting but of two or three flock-beds) they would have money or else cut them all to pieces, and burn the rest of his utensils, whereupon, whereupon the poor man was forced to make hard shilt to procure: them forty shillings to redeem his houshold-stuffe, but as for his horses and other cattle, no relief could be had.</p>
+            <p>They also tooke 4 brave horses from one Mr <hi>Brockas</hi> 5 from one Mr. <hi>Hussey,</hi> and from some Gentelmen they tooke six, or eayght, according as they were furnished with them, and plun<g ref="char:EOLhyphen"/>dred their Houses, besides if any man would but open his mouth to intreat for his goods they carried them away prosoners.</p>
+            <p>In this place it falls out very aptly, that I speak a word or two concerning a Parson that lives within 2 miles of Kingston (but in re<g ref="char:EOLhyphen"/>verence to his Coate I shall forbear to name him) who being the greatest malignant to the Parliament, of any of his profession in all that County, and did very frequently call the Par<g ref="char:EOLhyphen"/>liament
+<pb facs="tcp:109634:4"/>Round-heads, and those that adhere unto them Traytors, both in his Sermons and ordinary discourse, now he received the fruits of Rebellious instructions, for they plundered him to the bare Walles, and used more rigor against him than any other, even to the very clothes on his back, and notwithstanding he preached the heads of some of his seditious Ser<g ref="char:EOLhyphen"/>mons unto them, thinking to finde favour, but they would take no notice therof: after which he drew a petition to prince <hi>Rupert</hi> himself, declaring as well the part he had taken as the cause of his grief, and persented the same, with a prayer that restitution might be made; who tore his petition, and said (as it is informed by Letters from thence) that he deserved to be han<g ref="char:EOLhyphen"/>ged, which was all the recompence he had, and although those that are wellwishers to the Ca<g ref="char:EOLhyphen"/>valiers will hardly believe that they should find so little favour if the case should be theirs, yet <hi>I</hi> cannot be satisfied by any one of them, that when they come to any place, they stand to examine which side they are of, but whatso<g ref="char:EOLhyphen"/>ever and wheresoever they finde any thing, it is good bootie with them, and (according to the proverbiall phrase) <hi>all is fish that comes to net.</hi>
+            </p>
+            <pb facs="tcp:109634:5"/>
+            <p>The Calvaleers were also at Basing-stoke, but durst not make any stay there, but onely to rob and pillage (as they did in other places) for fear of the Parliaments Forces which were quartered at Okingham, and other places near thereabouts: afterwards, Prince <hi>Rupert</hi> came to Redding, where it is said he now resides.</p>
+            <p>One thing more remarkable in their plunder<g ref="char:EOLhyphen"/>ing this County is this, that when there was a motio<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made that the said County should enter into an association with Surry, and other adja<g ref="char:EOLhyphen"/>cent Counties, the motion was refused, because they would not dis lease the King for fear of his Army, but now they have good cause to say <hi>(had I wist)</hi> for then they might have secured themselves.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109634:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
